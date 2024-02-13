@@ -1,4 +1,5 @@
 ### Nils-Christian Iseke
+Robotics enthusiast, designing, building and programming 🤖. I love building complex systems and getting deeply involved in every aspect of them. With a bachelor's degree in mechanics, and a masters degree in medical informatics i have a broad understanding of soft and hardware. I can build an program your robot from scratch.
 
 - 🔭 I’m currently working on different ROS2 projects, getting involved into the development of Moveit2, ros2_control and various other ROS2 packages.
 - I have been working with ROS for almost 4 years and developed different ROS Based robots and applications:
